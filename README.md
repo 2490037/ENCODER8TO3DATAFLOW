@@ -1,4 +1,6 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+### NAME:PRANAV S
+### REG NO:24900037
+### EXPERIMENT: ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
@@ -58,9 +60,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/c5b73022-874d-4d5f-8951-b02d6a247352)
 
 
-Developed by: S.YOGESH 
-RegisterNumber: 24001573
-*/
+
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
